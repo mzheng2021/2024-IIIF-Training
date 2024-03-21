@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mzheng2021.github.io/2024 IIIF Training/manifests/f843dcfb15384bccf232e50989d31918.json",
     "label" : "Cardiganshire Constabulary register of criminals"
+  }, {
+    "@type" : "sc:AnnotationList",
+    "@id" : "https://mzheng2021.github.io/2024 IIIF Training/manifests/book.json",
+    "label" : null
   } ]
 }
