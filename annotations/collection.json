@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://mzheng2021.github.io/2024 IIIF Training/annotations/5081ca8817e793cd1ebb4feaa89910e1.json" ],
+  "otherContent" : [ ],
   "@id" : "https://mzheng2021.github.io/2024 IIIF Training/annotations/collection.json",
   "label" : "All annotations loaded in mzheng2021/2024-IIIF-Training project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
