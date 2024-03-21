@@ -1,0 +1,13 @@
+{
+  "id" : "https://mzheng2021.github.io/2024 IIIF Training/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mzheng2021/2024-IIIF-Training project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mzheng2021.github.io/2024 IIIF Training/manifests/f843dcfb15384bccf232e50989d31918.json",
+    "label" : "Cardiganshire Constabulary register of criminals"
+  } ]
+}
